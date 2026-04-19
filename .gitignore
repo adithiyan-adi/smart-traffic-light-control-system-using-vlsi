@@ -1,0 +1,17 @@
+# Vivado junk files
+*.jou
+*.log
+*.str
+
+.cache/
+.hw/
+.runs/
+.sim/
+.ip_user_files/
+.Xil/
+.gen/
+
+# Bitstream & temp
+*.bit
+*.bin
+*.ltx
